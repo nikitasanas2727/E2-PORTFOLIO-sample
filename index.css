@@ -1,0 +1,196 @@
+body
+{
+	margin: 0px;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.myname
+{
+	font-size: 25px;
+	font-family: impact;
+	color: darkblue;
+}
+.mymenu
+{
+	font-size: 18px;
+	color: darkblue;
+	font-family: lato;
+	font-weight: bolder;
+}
+.mymenu:hover
+{
+	color:#4028b8 ;
+}
+.navbar
+{
+	font-size: 10px;
+	position: fixed;
+	top:-10px;
+	left: 0px;
+	width: 100%;
+	z-index: 2;
+}
+.maindiv
+{
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.dv
+{
+    width: 100%;
+    padding-top: 200px;
+}
+html
+{
+	scroll-behavior: smooth;
+}
+.home
+{
+	height: 450px;
+	margin-top: 0px;
+	background-image: url("https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif");
+	background-repeat:no-repeat;
+	background-size: 30%;
+	background-position: right center;
+}
+.homeinfo
+{
+	margin-top: -10%;
+	margin-left: 4%;
+}
+.info
+{
+	font-size: 20px;
+	color:#1fbf21;
+	font-weight: bolder;
+}
+.infoname
+{
+	font-size: 28px;
+	font-family: sans-serif; !important;
+	color:#010c80;
+	font-weight: bolder;
+}
+.infodev
+{
+	font-size: 10px;
+	color: blueviolet;
+	font-weight: bolder;
+}
+.btn
+{
+	margin: 0px;
+}
+.btn button
+{
+	height: 30px;
+	width: 80px;
+	border:none;
+	background-color: #4028b8;
+	background-radius:10px;
+	color: white;
+	font-size: 14px;
+	font-weight: bolder;
+}
+.btn button:hover
+{
+	background-color: white;
+	color:#4028b8;
+	border: 2px solid #4028b8;
+	transform: scale(1.1);
+    transition-duration: 1s;
+}
+.sectionheading
+{
+	font-size: 35px;
+	color: #1fbf21;
+	font-family: Courier New Bold;
+	font-weight: bolder;
+
+
+}
+.about
+{
+	al
+}
+.myimg
+{
+	height: 250px;
+	width: 250px;
+	border-radius:250px;
+}
+.myimg:hover
+{
+	border-radius: 70px;
+	transform: 150px;
+}
+p
+{
+	text-indent: 2cm;
+	text-align: justify;
+	margin: 0px 50px;
+	color: #010c80;
+	font-weight: bolder;
+	font-size:25px;
+	font-family: lato;
+	
+}
+.skillhead
+{
+	align:top;
+}
+.tablehead
+{
+	text-align: center;
+	margin: 0px 50px;
+	color: black;
+	font-weight: bolder;
+	font-size:25px;
+	font-family: Courier New Bold;
+}
+.tabledata
+{
+	text-align: justify;
+	margin: 0px 50px;
+	color: #010c80;
+	font-weight: bolder;
+	font-size:20px;
+	font-family: lato;
+}
+.coInfo
+{
+	text-align: justify;
+	margin: 0px 50px;
+	color: #010c80;
+	font-weight: bolder;
+	font-size:20px;
+	font-family: Courier New Bold;
+}
+.card-title
+{
+	text-align: center;
+	margin: 0px 50px;
+	color: #940311;
+	font-weight: bolder;
+	font-size:30px;
+	font-family: Courier New Bold;
+}
+.card-img-top
+{	
+
+	height: 350px;
+	width: 500px;
+}
+.card-text
+{
+	color: #010c80;
+	font-size: 22	px;
+	font-weight: bold;
+
+}
+.card-group
+{
+	
+}
